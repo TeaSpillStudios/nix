@@ -143,6 +143,8 @@
     pulseaudio
     pavucontrol
     lazygit
+    lutris
+    mangohud
   ];
 
   # OhMyZsh
